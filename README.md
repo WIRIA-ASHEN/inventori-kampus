@@ -5,9 +5,12 @@ Aplikasi berbasis Laravel untuk mengelola data inventaris kampus.
 ## Fitur
 
 - Login
+- Dashboard
 - Manajemen Barang
 - Manajemen Kategori
-- Dashboard
+- Manajemen Ruangan
+- Pinjam Barang
+- Keluhan Barang
 
 ## Teknologi
 
@@ -15,3 +18,7 @@ Aplikasi berbasis Laravel untuk mengelola data inventaris kampus.
 - PHP
 - MySQL
 - Bootstrap
+
+## Screenshot
+
+![Dashboard](assets/dashboard.png)
