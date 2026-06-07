@@ -20,7 +20,7 @@ Aplikasi berbasis Laravel untuk mengelola data inventaris kampus.
 - Bootstrap
 
 ## Screenshot
-- Dashboard
+### Dashboard
 ![Dashboard](assets/dashboard.png)
 
 - Data Barang
